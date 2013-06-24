@@ -1,4 +1,4 @@
-# grunt-init-ko
+# grunt-init-back
 
 > Create min project with express backbone jquery twitter.bootstrap   
 
@@ -11,6 +11,7 @@ Once grunt-init is installed, place this template in your `~/.grunt-init/` direc
 
 ```
 git clone git@github.com:Pechalka/min_bootstrap.git ~/.grunt-init/back
+```
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
 
